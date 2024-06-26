@@ -1,2 +1,2 @@
 # DSA_Practise
-It has all the codes that I have Practised and still practising.
+It has all the codes for the questions that I have solved and still solving.
